@@ -8,7 +8,7 @@ Instead, we run STRICT, data-driven five-year financial simulations...
 grounded in official figures from the Bureau of Labor Statistics, the Department of Housing and Urban Development, the IRS, and regional Economic Area reports.
 
 Today, we are putting a SPECIFIC profession under our financial microscope:
-Fast Food and Counter Workers in the Phoenix-Mesa-Chandler metropolitan area — classified under SOC code 35-3023.
+Fast Food and Counter Workers in the Phoenix-Mesa-Chandler metropolitan area — classified under SOC code thirty five dash three thousand twenty three.
 
 We tracked the EXACT economic trajectory of this workforce from 2021 through 2026.
 We accounted for EVERY tax bracket change...

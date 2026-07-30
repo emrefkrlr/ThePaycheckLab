@@ -1,1 +1,2 @@
 Ekteki video metnini Kokoro TTS için noktalama, nefes araları, satır başları ve vurgu ayarlarını uygulayarak ses senaryosuna dönüştür.
+"PDF dosyası yada python kodu istemiyorum, içeriği doğrudan ekrana düz metin (text) olarak yaz."
