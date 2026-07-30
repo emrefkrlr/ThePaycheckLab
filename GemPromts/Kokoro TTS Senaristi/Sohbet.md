@@ -1,0 +1,1 @@
+Ekteki video metnini Kokoro TTS için noktalama, nefes araları, satır başları ve vurgu ayarlarını uygulayarak ses senaryosuna dönüştür.
