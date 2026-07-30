@@ -51,17 +51,12 @@ Add in groceries and utilities—where Phoenix’s brutal summer temperatures pu
 
 Here is how the total monthly expenses stack up in 2026 against a net monthly income of $2,612.76:
 
-Comfort Mode Expenses, $3,904.00 per month.
-Normal Mode Expenses, $2,480.00 per month.
-Frugal Mode Expenses, $1,518.00 per month. 
-Survival Mode Expenses, $856.00 per month.
+Comfort Mode Expenses, $3,904.00 per month. Normal Mode, $2,480.00 per month. Frugal Mode, $1,518.00 and Survival Mode Expenses, - $856.00 per month.
 
 When you subtract these expenses from our worker's net pay, the monthly margin available for savings and investment presents a striking split:
 
-In Comfort Mode, the worker runs a crushing deficit of -$1,291.24 every single month.
-In Normal Mode, they end up with a razor-thin surplus of +$132.76 per month.
-In Frugal Mode, they generate a healthy cash margin of +$1,094.76 per month.
-In Survival Mode, they unlock a massive surplus of +$1,756.76 per month.
+In Comfort Mode, the employee runs a significant deficit of $1,291.24 each month. In Normal Mode, it generates a very small surplus of $132.76 per month. In Frugal Mode, it generates a healthy cash margin of $1,094.76 per month. 
+Finally, in Survival Mode, it generates a massive surplus of $1,756.76 every month.
 
 Now let's answer our core lab question: If a fast-food worker in Phoenix faithfully invested every dollar of their remaining monthly surplus into the S&P 500 index—specifically tracking the SPY ETF—over the last 5 years, what would their portfolio be worth today?
 
