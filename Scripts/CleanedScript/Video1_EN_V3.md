@@ -24,9 +24,6 @@ or is the system STRUCTURALLY designed to keep them broke?
 
 Let's break down the EXACT numbers.
 
-
-Section 1: The Phoenix Paradox — Macroeconomic Reality versus The Nominal Wage.
-
 To understand the financial reality of a Phoenix fast food worker, you FIRST have to understand the UNPRECEDENTED economic shift that hit Maricopa County over the last six years.
 
 Between 2021 and 2026, Phoenix transitioned from an affordable Sunbelt alternative — into one of the MOST EXPENSIVE living corridors in the Mountain West.
@@ -58,9 +55,6 @@ Cumulative price erasures meant that by 2026, real purchasing power had COLLAPSE
 In plain English:
 you are making MORE dollars...
 but those dollars buy SIGNIFICANTLY LESS food, less fuel, and less shelter than they did five years ago!
-
-
-Section 2: The Four Lifestyle Paradigms — Deconstructing Expenses.
 
 To see how this net income plays out in real life, our laboratory modeled FOUR distinct living paradigms.
 Each represents a UNIQUE psychological and financial response to the economic environment of Phoenix.
@@ -141,9 +135,6 @@ While Survival Mode generates seventeen hundred dollars in monthly surplus...
 it demands SEVERE human compromises —
 chronic sleep disruption, social isolation, extreme time poverty from long bus commutes, and mental exhaustion.
 
-
-Section 3: The 5-Year Portfolio Simulation — Realizing the Wealth.
-
 Now, let's answer our core question:
 If these workers CONSISTENTLY invested every single dollar of their monthly surplus into an S&P 500 index fund over the entire 5-year period from 2021 to 2026...
 what would their portfolio be worth TODAY?
@@ -163,8 +154,6 @@ EIGHTY-SEVEN THOUSAND seven hundred and twenty-one dollars and seventy-eight cen
 In Survival Mode — pushing capital allocation to absolute mathematical extremes produces a 5-year portfolio value of...
 ONE HUNDRED AND FORTY-ONE THOUSAND seven hundred and twenty-one dollars and thirty-five cents!
 
-
-Section 4: Behavioral Reality — The Scarcity Trap and The Optimal Strategy.
 
 Looking strictly at these spreadsheet numbers, someone might naively jump to the conclusion:
 "Why doesn't EVERY fast food worker just live in Survival Mode for 5 years and walk away with a hundred and forty thousand dollars?"
@@ -191,7 +180,6 @@ and dials into Frugal Mode 30% of the time during stable periods.
 When you apply the 70/30 Hybrid Strategy to a fast food worker in Phoenix over this exact 5-year period...
 the resulting investment portfolio reaches...
 THIRTY-FOUR THOUSAND four hundred and sixty-seven dollars!
-
 
 Conclusion: The Final Verdict.
 
