@@ -17,7 +17,7 @@ cumulative grocery inflation, auto insurance spikes, AND rent surges!
 
 More importantly, we tested FOUR distinct living paradigms —
 Comfort Mode, Normal Mode, Frugal Mode, and Survival Mode —
-and funneled their monthly surpluses into an S and P 500 index fund...
+and funneled their monthly surpluses into an EssandPee 500 index fund...
 to answer ONE fundamental question:
 Can a fast food worker in Phoenix actually BUILD WEALTH over a five-year period...
 or is the system STRUCTURALLY designed to keep them broke?
@@ -136,7 +136,7 @@ it demands SEVERE human compromises —
 chronic sleep disruption, social isolation, extreme time poverty from long bus commutes, and mental exhaustion.
 
 Now, let's answer our core question:
-If these workers CONSISTENTLY invested every single dollar of their monthly surplus into an S and P 500 index fund over the entire 5-year period from 2021 to 2026...
+If these workers CONSISTENTLY invested every single dollar of their monthly surplus into an EssandPee 500 index fund over the entire 5-year period from 2021 to 2026...
 what would their portfolio be worth TODAY?
 
 We ran the compounding math — factoring in historical market returns and exact monthly cash flow contributions across all four paradigms.
