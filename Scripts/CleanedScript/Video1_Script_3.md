@@ -1,4 +1,4 @@
-Can a fast food worker in Phoenix ACTUALLY build wealth over a five-year period... or is the system structurally designed to keep them BROKE?—
+Can a fast food worker in Phoenix ACTUALLY build wealth over a five-year period or is the system structurally designed to keep them BROKE?—
 
 Let's break down the EXACT numbers...
 
