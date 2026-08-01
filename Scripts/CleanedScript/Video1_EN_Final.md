@@ -9,7 +9,7 @@ Here, we don't rely on generic financial advice, surface-level headlines, or opt
 Instead, we run STRICT, data-driven five-year financial simulations grounded in official figures from the Bureau of Labor Statistics, the Department of Housing and Urban Development, the IRS, and regional Economic Area reports.
 
 
-Today, we are putting a SPECIFIC profession under our financial microscope... Fast Food and Counter Workers in the Phoenix-Mesa-Chandler metropolitan area—classified under SOC code thirty-five, thirty-twenty-three.
+Today, we are putting a SPECIFIC profession under our financial microscope... Fast Food and Counter Workers in the Phoenix-Mesa-Chandler metropolitan area—classified under SOC code thirty-five dash thirty-twenty-three.
 
 We tracked the exact economic trajectory of this workforce from twenty twenty-one through twenty twenty-six.
 
@@ -50,7 +50,7 @@ That LOOKS like a twenty-three and a half percent pay raise.
 But in financial engineering... nominal increases without inflation adjustment are PURELY an illusion.
 
 
-When you factor in mandatory FICA taxes, federal withholdings, and Arizona's state income tax—which transitioned to a flat two point five percent rate in twenty twenty-three—that gross monthly income of three thousand twenty-four dollars in twenty twenty-six... SHRINKS down to a take-home pay of exactly two thousand six hundred and twelve dollars and seventy-six cents.
+When you factor in mandatory Federal Insurance Contributions Act taxes, federal withholdings, and Arizona's state income tax—which transitioned to a flat two point five percent rate in twenty twenty-three—that gross monthly income of three thousand twenty-four dollars in twenty twenty-six... SHRINKS down to a take-home pay of exactly two thousand six hundred and twelve dollars and seventy-six cents.
 
 Over FOUR HUNDRED dollars vanishes before the paycheck even hits the bank account!—
 
