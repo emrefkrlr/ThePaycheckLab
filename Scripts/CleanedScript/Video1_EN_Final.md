@@ -82,7 +82,7 @@ In twenty twenty-six, their monthly expense breakdown looks like this, Rent drop
 
 Transportation costs five hundred and seventy-five dollars—mostly fuel, insurance, and routine maintenance.
 
-Groceries and shared household utilities cost five hundred and eighty-eight , Social expenses are — capped at one hundred and sixty-six , Healthcare requires one hundred and twenty-eight— and personal care takes sixty-eight dollars.
+Groceries and shared household utilities cost five hundred and eighty-eight , Social expenses are — capped at one hundred and sixty-six , Healthcare requires —one hundred and twenty-eight— and personal care takes sixty-eight dollars.
 
 Total monthly expenditure in Normal Mode, two thousand four hundred and eighty dollars.
 Net monthly cash flow— POSITIVE one hundred and thirty-two dollars and seventy-six cents.
@@ -95,7 +95,7 @@ They share a two-bedroom apartment with two other roommates, optimize household 
 
 In twenty twenty-six, their optimized monthly costs are, Rent shrinks to six hundred and thirty-seven dollars.
 
-Transportation—minimal fuel and basic coverage—costs two hundred and eighty-five, —Groceries and utilities drop to four hundred and twenty-eight, Healthcare—utilizing high-deductible health plans—takes eighty-five, -Socializing is kept to forty-six dollars, and -personal care costs thirty-seven dollars.
+Transportation—minimal fuel and basic coverage—costs two hundred and eighty-five, —Groceries and utilities drop to four hundred and twenty-eight, Healthcare—utilizing high-deductible health plans—takes eighty-five, —Socializing is kept to forty-six dollars, and —personal care costs thirty-seven dollars.
 
 Total monthly expenditure in Frugal Mode, -fifteen hundred and eighteen dollars.
 
@@ -113,7 +113,7 @@ Housing costs four hundred and seventy-eight, -Public transportation via Valley 
 
 Total monthly expenditure in Survival Mode, eight hundred and fifty-six dollars.
 
-Net monthly cash flow, -POSITIVE seventeen hundred and fifty-six dollars and seventy-six cents!—
+Net monthly cash flow, -POSITIVE seventeen hundred and fifty-six dollars !—
 
 While Survival Mode generates seventeen hundred dollars in monthly surplus... it demands SEVERE human compromises—chronic sleep disruption, social isolation, extreme time poverty from long bus commutes, and mental exhaustion.
 
@@ -127,7 +127,7 @@ Here are the RAW mathematical results...
 
 In Comfort Mode, the total portfolio balance after five years is EXACTLY ZERO dollars, Because, the worker operates at a severe monthly deficit, -NO investment capital ever exists.
 
-In Normal Mode,  accumulating modest monthly surpluses results in a five-year portfolio value of ELEVEN THOUSAND six hundred and sixty-one dollars and fifty-four cents.
+In Normal Mode,  accumulating modest monthly surpluses results in a five-year portfolio value of ELEVEN THOUSAND six hundred and sixty-one dollars.
 
 In Frugal -Mode,  consistent aggressive savings compounded over sixty months yield an IMPRESSIVE portfolio value of EIGHTY-SEVEN THOUSAND seven hundred and twenty-one dollars!—
 
@@ -136,7 +136,7 @@ and in Survival Mode, pushing capital allocation to absolute mathematical extrem
 
 Looking strictly at these spreadsheet numbers, someone might naively jump to the conclusion... "Why doesn't every fast food worker just live in Survival Mode for five years and walk away with a hundred and forty thousand dollars?"
 
-At The Paycheck Lab... we REJECT spreadsheet fantasy!—
+We REJECT spreadsheet fantasy!—
 
 Human beings are NOT algorithms, and economic simulations MUST account for psychological realities.
 
