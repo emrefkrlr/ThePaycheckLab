@@ -59,13 +59,9 @@ They live alone in a market-rate one-bedroom apartment, drive a financed SUV wit
 
 In twenty twenty-six, here is where their money goes EVERY single month— Housing costs, one-bedroom market rent plus corporate admin fees—demand sixteen hundred and ten dollars.
 
-Transportation—including car payment, elevated Phoenix auto insurance, fuel, and heat-related maintenance—costs seven hundred and ninety-five dollars.
+Transportation—including car payment, elevated Phoenix auto insurance, fuel, and heat-related maintenance—costs seven hundred and ninety-five, —Food and utilities, factoring in peak summer electric bills and unconstrained groceries, take eight hundred and twelve dollars.
 
-Food and utilities, factoring in peak summer electric bills and unconstrained groceries, take eight hundred and twelve dollars.
-
-Social life, delivery app service fees, and dining out consume three hundred and seventy-four dollars.
-
-Healthcare premiums and out-of-pocket costs take one hundred and eighty-two dollars... while personal care and subscriptions add another one hundred and thirty-one dollars.
+Social life, delivery app service fees, and dining out consume three hundred and seventy-four, —Healthcare premiums and out-of-pocket costs take one hundred and eighty-two, —while personal care and subscriptions add another one hundred and thirty-one dollars...
 
 Total monthly expenditure in Comfort Mode, three thousand nine hundred and four dollars.
 
