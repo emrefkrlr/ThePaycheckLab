@@ -1,6 +1,6 @@
 How much do you think you’d need per month to cover your basic needs and save a little money?
 
-But what happens, when you're working behind the counter in one of the fastest-growing desert metropolises in the United States earning FIFTEEN dollars an hour while regional inflation, skyrocketing housing, and hidden costs SILENTLY erode every single dollar you make?—
+But what happens, when you're working behind the counter in one of the fastest-growing desert metropolises in the United States —earning FIFTEEN dollars an hour while regional inflation, skyrocketing housing, and hidden costs SILENTLY erode every single dollar you make?—
 
 Welcome back to The Paycheck Lab.
 
@@ -20,7 +20,7 @@ Can a fast food worker in Phoenix ACTUALLY build wealth over a five-year period 
 
 Let's break down the EXACT numbers...
 
-According to the U.S Bureau of Labor Statistics Consumer Expenditure Survey household spending indexes and Federal Reserve Board microdata screenings, the Credit Card Reliance Index for low-income Fast Food Workers, SOC thirty-five dash thirty-twenty-three, in the Phoenix metropolitan area has climbed to eighty-one point one percent...
+According to the U.S Bureau of Labor Statistics Consumer Expenditure Survey household spending indexes and Federal Reserve Board microdata screenings, the Credit Card Reliance Index for low-income Fast Food Workers, —in the Phoenix metropolitan area has climbed to eighty-one point one percent...
 
 Concurrently, the Payday through High-Interest Loan Reliance Rate—which covers non-traditional, predatory financing instruments—stands at thirty-four point five percent...
 
