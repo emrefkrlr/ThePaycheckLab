@@ -8,6 +8,86 @@ Amerika bayrağı.
 #0A3161
 #ffffff
 
+Amerikan bayrağındaki temel Kırmızı (`#B31942`), Lacivert (`#0A3161`) ve Beyaz (`#FFFFFF`) renkleri, finans ve belgesel odaklı bir içerik için harika bir temeldir. Ancak bunları videodaki grafiklerde, Canva şablonlarında ve metinlerde dengeli kullanabilmek için **yardımcı (nötr ve vurgu) renklerle** desteklenmiş eksiksiz bir Marka Kiti (Brand Kit) paleti oluşturmak gerekir.
+
+İşte bu tonlarla tamamen uyumlu, ABD finans estetiğine sahip **Marka Kiti Renk Paleti**:
+
+---
+
+## 🎨 Renk Paleti ve Rolleri
+
+### 1. Ana Marka Renkleri (Primary Colors)
+
+Grafiklerdeki hakim unsurlar, ana başlıklar ve arka plan katmanları için:
+
+* **Old Glory Red (Kırmızı):** `#B31942`
+* *Kullanım:* Dikkat çekmesi gereken kritik veriler, Dolar/Finans kayıpları, önemli grafik vurguları.
+
+
+* **Old Glory Blue (Derin Lacivert):** `#0A3161`
+* *Kullanım:* Güven ve ciddiyet hissi için ana grafik arka planları, alt bantlar (lower thirds), başlık kutuları.
+
+
+* **Pure White (Saf Beyaz):** `#FFFFFF`
+* *Kullanım:* Lacivert arka plan üzerindeki okunaklı ana metinler, grafik çizgileri ve ikonlar.
+
+
+
+### 2. Destekleyici ve Yumuşatıcı Tonlar (Secondary / Neutral)
+
+Tüm tasarımı sadece kırmızı-beyaz-mavi yapıp izleyicinin gözünü yormamak için geçişlerde ve kart tasarımlarında kullanılacak nötr tonlar:
+
+* **Slate Navy (Açık Lacivert / Gri-Mavi):** `#1E4375`
+* *Kullanım:* Ana lacivertin yanında ikinci katmanlar, kart sınırları (borders) veya gölgelendirmeler.
+
+
+* **Soft Off-White / Cream (Yumuşak Beyaz):** `#F4F6F9`
+* *Kullanım:* Bazen tamamen zifiri beyaz yerine gözü yormayan açık gri/mavi tonlu arka plan kartları.
+
+
+* **Charcoal Dark (Koyu Füme / Gece Siyahı):** `#0F172A`
+* *Kullanım:* Tam siyah yerine kullanabileceğiniz sinematik karanlık arka planlar.
+
+
+
+### 3. Finans Vurgu Renkleri (Accent Colors)
+
+Görsellerde Dolar ($) sembolü, kâr/artış grafikleri veya "başarı" vurgulamak için ana paleti bozmayan finans renkleri:
+
+* **Wall Street Green (Kazanım Yeşili):** `#10B981`
+* *Kullanım:* Borsa artışları, Dolar ($) simgesi, olumlu finansal veriler, grafiklerdeki yükseliş okları.
+
+
+* **Financial Gold (Sarı/Altın Vurgusu):** `#F59E0B`
+* *Kullanım:* Uarılar, dikkat çekilmek istenen istatistik rakamları veya rozetler.
+
+
+
+---
+
+## 📐 Canva ve CapCut Kullanım Kılavuzu (Hızlı Tablo)
+
+| Renk Kodu (HEX) | Renk Adı | Rolü / Nerede Kullanılmalı? |
+| --- | --- | --- |
+| **`#0A3161`** | **Ana Lacivert** | Canva grafik arka planları, metin kutuları, alt grafikler |
+| **`#B31942`** | **Ana Kırmızı** | Vurgu kelimeler, negatif grafik çizgileri, uyarı metinleri |
+| **`#FFFFFF`** | **Beyaz** | Lacivert üzerindeki tüm okunaklı metinler ve alt yazılar |
+| **`#10B981`** | **Finans Yeşili** | Yükselen grafikler, Dolar ($) sembolleri, kâr istatistikleri |
+| **`#1E4375`** | **Yumuşak Mavi** | Grafikteki ikincil çizgiler, kutu kenarlıkları (Border) |
+| **`#F4F6F9`** | **Açık Gri-Mavi** | Beyaz zemin gerektiren kart içi metin alanları |
+
+---
+
+## 💡 Finans Videoları İçin Renk Dengesi Kuralı (60-30-10)
+
+Ekranda grafik gösterirken bu paleti profesyonel göstermenin altın kuralı:
+
+1. **%60 Baskın Renk:** Derin Lacivert (`#0A3161`) veya Koyu Arka Plan.
+2. **%30 Tamamlayıcı Renk:** Beyaz (`#FFFFFF`) metinler ve gri/mavi yardımcı kartlar.
+3. **%10 Vurgu Rengi:** Kırmızı (`#B31942`) veya Yeşil (`#10B981`) ile sadece dikkat çekmek istediğiniz tek bir kelime/sayı.
+
+*(Bu kural sayesinde grafikleriniz tam bir Amerikan haber kanalı / belgesel kalitesinde ve kurumsal duracaktır.)*
+
 # Capcut Çıktı Alma
 
 CapCut üzerinde YouTube için maksimum kaliteyi elde etmek ve YouTube’un sıkıştırma algoritmalarından (compression) minimum düzeyde etkilenmek için ayarlarınızı şu şekilde yapmanız en iyisidir:
