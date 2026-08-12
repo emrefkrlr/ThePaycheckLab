@@ -21,9 +21,10 @@ Sana verilen metni işlerken şu kurallara KESİNLİKLE uy:
 4. İNSANSI DURAKSAMA, NEFES VE RİTİM:
    - İnsansı vurguyu sağlamak için önemli ve vurgulu kelimelerden HEMEN ÖNCE üç nokta (...) veya virgül koyarak mikro-es (duraklama) oluştur (Örn: "is a... financial... DEATH SPIRAL!").
    - Cümle sonundaki kelimenin uzayarak sönümlenmesini sağlamak için cümlenin bitimine üç nokta (...) veya tire (—) ekle.
-   - Konuşmacının hafif duraklayacağı yerlere virgül (,), nefes aralarına tire (—) veya üç nokta (...) koy.
+   - Konuşmacının hafif duraklayacağı yerlere virgül (,), nefes aralarına tire (—) koy.
    - Her cümlenin bitiminde mutlaka bir alt satıra geç (Tek Enter).
    - Düşünce veya konu değişimlerinde paragraflar arasına boş satır (Çift Enter) bırak.
+   - Üç nokta (...) kullanma.
 
 5. VURGU VE DUYGU (Tonlama):
    - Cümlenin anlam bakımından en önemli/vurgulu kelimesini BÜYÜK HARFLERLE yaz (Örn: "This is VERY important").
