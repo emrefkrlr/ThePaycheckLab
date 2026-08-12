@@ -258,3 +258,65 @@ Eğer "Ben illa Keyframe ile yapacağım" diyorsanız, sert geçişin sebebi **K
 4. Buradan **"Ease In / Ease Out" (Yumuşak Giriş / Çıkış)** eğrisini seçin.
 
 *(Grafik eğrisi eklemezseniz CapCut doğrusal/lineer bir geçiş yapar, bu da mekanik ve sert görünür. "Ease" eğrisi ise geçişi yavaş başlayıp yumuşakça tamamlar).*
+
+---
+
+Paylaştığın ekran görüntüleri ve ABD pazarına yönelik YouTube finans konseptin için **Proje Ayarları** ile **Ses Seviyeleri (Loudness/Mix)** tarafında yapman gereken en ideal düzenlemeler şunlardır:
+
+---
+
+## 1. Proje Ayarları (Ayrıntılar & Performans)
+
+### Ayrıntılar (Details) Tablosu
+
+| Ayar | Mevcut Durum | **Olması Gereken** | Neden? |
+| --- | --- | --- | --- |
+| **İçe aktarılan medya** | *Orijinal konumda kal* | **Orijinal konumda kal** | Dosyaları iki kez kopyalayıp diskini boş yere doldurmaz. Dosya yerlerini değiştirmediğin sürece bu idealdir. |
+| **Renk alanı** | *Rec. 709 SDR* | **Rec. 709 SDR** | YouTube ve standart monitörlerin %99'u için standart renktir, kesinlikle değiştirmemelisin. |
+| **Katmanları düzenleyin** | *Açık* | **Açık** | Katman mantığıyla (Overlays, grafikler, sesler) çalışmayı kolaylaştırır. |
+| **En boy oranı** | *16:9* | **16:9** | YouTube ana yatay video formatıdır. |
+| **Çözünürlük** | *Ayarlandı* | **`4K (3840*2160)`** veya **`1080P`** | Şu an "Ayarlandı" görünmesi timeline'a attığın ilk klibin boyutunu aldığı anlamına gelir. Manuel olarak **4K** veya **1080P** sabitlemek kurgu esnasında grafiklerin taşmasını engeller. |
+| **Çerçeve hızı** | *30.00 fps* | **`30.00 fps`** | ABD pazarı için konuştuğumuz gibi mükemmel seçim. |
+
+### Performans (Performance) Tablosu
+
+* **Proxy:** **Açık (`720P`)**
+* *Doğru karar:* 4K videolarla ve ağır B-roll katmanlarıyla çalışırken bilgisayarının kasmasını, kurgunun takılmasını önler. Export alırken CapCut bunu otomatik devre dışı bırakıp orijinal kaliteyi basacaktır.
+
+
+
+---
+
+## 2. Metin Seslendirme ve Ses Miksajı (Audio Levels)
+
+Finans ve belgesel tarzında ses kalitesi, izleyicinin videoda kalma süresini (*retention*) doğrudan belirler. CapCut’ta sağ taraftaki **Loudness (Desibel / dB)** göstergesine bakarak sesleri şu seviyelere sabitlemelisin:
+
+### 🎙️ Ana Seslendirme (Voiceover / Dış Ses)
+
+* **İdeal Seviye:** **`-3 dB` ile `-6 dB` arasında**
+* **Altın Kural:** Konuşmanın en tepe noktaları (bağırma, vurgu) asla **`0 dB`**'e dokunmamalı veya kırmızıyı görmemelidir (bu durum seste patlama/distortion yapar).
+* **Dip Ses Temizliği:** CapCut içinde ses dosyana tıklayıp sağ panelden **Gürültüyü Azalt (Loudness Normalization / Noise Reduction)** ve **Loudness Normalization** özelliklerini açarsan tüm seslendirme boyunca ses şiddeti dengede kalır.
+
+### 🎵 Arka Plan Müziği (Background Music)
+
+* **İdeal Seviye:** **`-18 dB` ile `-24 dB` arasında**
+* **Mantık:** Müzik, ana seslendirmenin arkasında bir "yatak" oluşturmalıdır. Konuşma başladığında müziğin varlığı hissedilmeli ama ne dediğin tam anlaşılır olmalıdır. Konuşmanın olmadığı geçişlerde müziği hafifçe yukarı (`-12 dB`) çekebilirsin.
+
+### 🔊 Ses Efektleri (SFX - Whoosh, Impact, Click)
+
+* **İdeal Seviye:** **`-10 dB` ile `-15 dB` arasında**
+* **Mantık:** Efektler (örneğin ekrana grafik girerken çıkan hışırtı) izleyiciyi irkiltmemeli, görseli desteklemelidir. Çok yüksek olurlarsa profesyonel durmaz.
+
+---
+
+### Özet Ses Tablosu (Hızlı Kontrol)
+
+```text
+  0 dB  ------------------------ [ TEHLİKE / PATLAMA ]
+ -3 dB  - - - - - - - - - - - -  Ana Seslendirme (Tepe Noktası)
+ -6 dB  - - - - - - - - - - - -  Ana Seslendirme (Ortalama)
+-12 dB  - - - - - - - - - - - -  Ses Efektleri (Vurucu SFX)
+-18 dB  - - - - - - - - - - - -  Arka Plan Müziği (Konuşma Varken)
+-24 dB  - - - - - - - - - - - -  Hafif Atmosfer Sesleri
+
+```
